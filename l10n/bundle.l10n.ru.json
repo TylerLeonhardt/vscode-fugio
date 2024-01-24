@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "Выбор поставщика аутентификации",
+  "Enter provider to use": "Введите провайдера, чтобы использовать",
+  "The setting {0} is required to use this provider": "Настройка {0}, необходимая для использования этого поставщика",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "Выберите список областей, разделенных пробелами, для {0} поставщика (например, \"scope1 scope2\")",
+  "Enter space separated scope list to use": "Введите список областей, разделенных пробелами, чтобы использовать",
+  "Copy access token": "Копирование маркера доступа",
+  "Copy id token": "Копирование маркера удостоверения личности"
+}

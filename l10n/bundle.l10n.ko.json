@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "인증 공급자 선택",
+  "Enter provider to use": "사용할 공급자 입력",
+  "The setting {0} is required to use this provider": "이 공급자를 사용하려면 {0} 설정이 필요합니다",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "공급자 {0}에 대해 공백으로 구분된 범위 목록을 선택합니다(예: \"scope1, scope2\").",
+  "Enter space separated scope list to use": "사용할 공백으로 구분된 범위 목록을 입력합니다.",
+  "Copy access token": "액세스 토큰 복사",
+  "Copy id token": "ID 토큰 복사"
+}

@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "Sélectionner le fournisseur d’authentification",
+  "Enter provider to use": "Entrez le fournisseur à utiliser",
+  "The setting {0} is required to use this provider": "Le paramètre {0} est nécessaire pour utiliser ce fournisseur",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "Sélectionnez une liste d’étendues séparées par des espaces pour les {0} du fournisseur (par exemple, « scope1 scope2 »)",
+  "Enter space separated scope list to use": "Entrez la liste d’étendue séparée par des espaces à utiliser",
+  "Copy access token": "Copier le jeton d’accès",
+  "Copy id token": "Copier le jeton d’ID"
+}

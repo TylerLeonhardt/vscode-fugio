@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "Şḗḗŀḗḗƈŧ ȧȧŭŭŧħḗḗƞŧīƈȧȧŧīǿǿƞ ƥřǿǿṽīḓḗḗř",
+  "Enter provider to use": "ḖḖƞŧḗḗř ƥřǿǿṽīḓḗḗř ŧǿǿ ŭŭşḗḗ",
+  "The setting {0} is required to use this provider": "Ŧħḗḗ şḗḗŧŧīƞɠ {0} īş řḗḗɋŭŭīřḗḗḓ ŧǿǿ ŭŭşḗḗ ŧħīş ƥřǿǿṽīḓḗḗř",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "Şḗḗŀḗḗƈŧ şƥȧȧƈḗḗ-şḗḗƥȧȧřȧȧŧḗḗḓ ŀīşŧ ǿǿƒ şƈǿǿƥḗḗş ƒǿǿř ƥřǿǿṽīḓḗḗř {0} (ḗḗ.ɠ. \"şƈǿǿƥḗḗ1 şƈǿǿƥḗḗ2\")",
+  "Enter space separated scope list to use": "ḖḖƞŧḗḗř şƥȧȧƈḗḗ şḗḗƥȧȧřȧȧŧḗḗḓ şƈǿǿƥḗḗ ŀīşŧ ŧǿǿ ŭŭşḗḗ",
+  "Copy access token": "Ƈǿǿƥẏ ȧȧƈƈḗḗşş ŧǿǿķḗḗƞ",
+  "Copy id token": "Ƈǿǿƥẏ īḓ ŧǿǿķḗḗƞ"
+}

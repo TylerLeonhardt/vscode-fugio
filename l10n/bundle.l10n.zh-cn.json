@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "选择身份验证提供程序",
+  "Enter provider to use": "输入要使用的提供程序",
+  "The setting {0} is required to use this provider": "使用此提供程序需要设置{0}",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "为提供程序{0}选择以空格分隔的范围列表（例如“scope1 scope2”）",
+  "Enter space separated scope list to use": "输入要使用的空格分隔范围列表",
+  "Copy access token": "复制访问令牌",
+  "Copy id token": "复制 id 令牌"
+}

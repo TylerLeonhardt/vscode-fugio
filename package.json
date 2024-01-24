@@ -10,8 +10,9 @@
 		"url": "https://github.com/TylerLeonhardt/vscode-fugio/issues"
 	},
 	"license": "MIT",
+	"icon": "images/icon.png",
 	"description": "Mint access tokens with ease using VS Code's API!",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.77.0"
 	},
@@ -20,16 +21,17 @@
 	],
 	"activationEvents": [],
 	"browser": "./dist/web/extension.js",
+	"l10n": "./l10n",
 	"contributes": {
 		"commands": [
 			{
 				"command": "fugio.mintToken",
-				"title": "Mint Token",
+				"title": "%mintTokenCommand.title%",
 				"category": "Fugio"
 			},
 			{
 				"command": "fugio.clearRecents",
-				"title": "Clear Recents",
+				"title": "%clearRecentsCommand.title%",
 				"category": "Fugio"
 			}
 		]

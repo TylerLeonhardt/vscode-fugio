@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "認証プロバイダーの選択",
+  "Enter provider to use": "使用するプロバイダーを入力",
+  "The setting {0} is required to use this provider": "このプロバイダーを使用するには、設定{0}が必要です",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "プロバイダー {0} のスコープをスペースで区切ったリストを選択します (例: \"scope1 scope2\")",
+  "Enter space separated scope list to use": "使用するスコープリストをスペースで区切って入力",
+  "Copy access token": "アクセストークンのコピー",
+  "Copy id token": "ID トークンのコピー"
+}
