@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "Kimlik doğrulama sağlayıcısını seçin",
+  "Enter provider to use": "Kullanılacak sağlayıcıyı girin",
+  "The setting {0} is required to use this provider": "Bu sağlayıcıyı kullanmak için {0} ayar gereklidir",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "Sağlayıcı {0} için boşlukla ayrılmış kapsam listesi seçin (ör. \"kapsam1 kapsam2\")",
+  "Enter space separated scope list to use": "Kullanılacak boşlukla ayrılmış kapsam listesini girin",
+  "Copy access token": "Erişim belirtecini kopyalama",
+  "Copy id token": "Kimlik jetonunu kopyala"
+}

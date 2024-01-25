@@ -1,0 +1,9 @@
+{
+  "Select authentication provider": "Výběr zprostředkovatele ověřování",
+  "Enter provider to use": "Zadejte poskytovatele, který se má použít",
+  "The setting {0} is required to use this provider": "Nastavení {0} je vyžadováno pro použití tohoto zprostředkovatele",
+  "Select space-separated list of scopes for provider {0} (e.g. \"scope1 scope2\")": "Vyberte seznam oborů oddělených mezerami pro {0} poskytovatele (např. \"scope1 scope2\")",
+  "Enter space separated scope list to use": "Zadejte seznam oborů oddělených mezerami, který se má použít",
+  "Copy access token": "Kopírování přístupového tokenu",
+  "Copy id token": "Kopírování tokenu ID"
+}
