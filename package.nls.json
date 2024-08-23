@@ -1,4 +1,5 @@
 {
     "mintTokenCommand.title": "Mint Token",
-    "clearRecentsCommand.title": "Clear Recents"
+    "clearRecentsCommand.title": "Clear Recents",
+    "inspectAccountsCommand.title": "Inspect Accounts"
 }

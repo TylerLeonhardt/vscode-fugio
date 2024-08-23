@@ -14,7 +14,7 @@
 	"description": "Mint access tokens with ease using VS Code's API!",
 	"version": "0.0.6",
 	"engines": {
-		"vscode": "^1.77.0"
+		"vscode": "^1.93.0"
 	},
 	"categories": [
 		"Other"
@@ -33,6 +33,11 @@
 				"command": "fugio.clearRecents",
 				"title": "%clearRecentsCommand.title%",
 				"category": "Fugio"
+			},
+			{
+				"command": "fugio.inspectAccounts",
+				"title": "%inspectAccountsCommand.title%",
+				"category": "Fugio"
 			}
 		]
 	},
@@ -47,7 +52,7 @@
 		"run-in-browser": "vscode-test-web --browserType=chromium --extensionDevelopmentPath=. ."
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.77.0",
+		"@types/vscode": "^1.92.0",
 		"@types/mocha": "^9.1.0",
 		"eslint": "^8.11.0",
 		"@typescript-eslint/eslint-plugin": "^5.16.0",
