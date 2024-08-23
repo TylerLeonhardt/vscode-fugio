@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"icon": "images/icon.png",
 	"description": "Mint access tokens with ease using VS Code's API!",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.93.0"
 	},
